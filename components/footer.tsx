@@ -1,3 +1,4 @@
+import { Badge } from "@/components/ui/badge";
 import { Heart, Code, Shield } from "lucide-react"
 
 export function Footer() {

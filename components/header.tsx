@@ -1,3 +1,4 @@
+"use client";
 import { Menu, X, Zap, Shield, Code, Brain } from "lucide-react"
 import { Button } from "./ui/button"
 import { ThemeToggle } from "./theme-toggle"

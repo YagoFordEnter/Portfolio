@@ -1,1 +1,6 @@
-.aider*
+node_modules/
+.next/
+out/
+build/
+.env*
+.vercel
